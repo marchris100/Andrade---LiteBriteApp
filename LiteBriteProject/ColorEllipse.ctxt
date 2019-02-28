@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=aColor
+comment0.target=ColorEllipse(java.awt.Color)
+comment1.params=color\ x\ y\ width\ height
+comment1.target=ColorEllipse(java.awt.Color,\ int,\ int,\ int,\ int)
+comment2.params=aColor
+comment2.target=void\ setColor(java.awt.Color)
+comment3.params=aBetterBrush
+comment3.target=void\ fill(java.awt.Graphics2D)
+comment4.params=aBrush
+comment4.target=void\ draw(java.awt.Graphics2D)
+numComments=5

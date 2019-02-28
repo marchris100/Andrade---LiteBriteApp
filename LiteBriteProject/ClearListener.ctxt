@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=lb
+comment0.target=ClearListener(LiteBritePanel)
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=2
